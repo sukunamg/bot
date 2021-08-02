@@ -83,7 +83,7 @@ main {
 }
 
 .number:hover {
-    background-color: olive;
+    background-color: rgb(98, 0, 255);
     cursor: pointer;
     color: purple;
 }
